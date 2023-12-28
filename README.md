@@ -23,7 +23,6 @@
 ![image](https://github.com/jason-lai-02/Bookstore-App/assets/154931668/a410b80d-59ba-45c6-bfb2-23f8224502d3)
 
 
-
 **Customer browsing and Checkout Screens:**
 
 ![image](https://github.com/jason-lai-02/Bookstore-App/assets/154931668/a201d2d2-fa02-4a8a-be36-94132a320b8f)
