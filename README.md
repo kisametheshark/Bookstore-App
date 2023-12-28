@@ -1,3 +1,5 @@
+This bookstore application was accomplished using Java with JavaFX in the NetBeans IDE referring to conceptualized UML and Class Diagrams, designed in Visual Paradigm. The UML and Class Diagrams exhibited several instances of Object-Oriented Programming which were then implemented into the code. The application encompassed all necessary features required to fulfill customer purchasing, a points-based rewards system as well as the admin's ability to manage customers and add/delete books within the database. Additionally, a state design pattern was utilized to assign a specific status to the customer, related to the amount of points they have. Using JavaFX, the bookstore was displayed as a single window GUI-based application.
+
 **Class Diagrams for Objects:**
 
 ![image](https://github.com/jason-lai-02/Bookstore-App/assets/154931668/53dcc192-948d-4858-8304-22ec802b7f70)
@@ -23,12 +25,12 @@
 ![image](https://github.com/jason-lai-02/Bookstore-App/assets/154931668/a410b80d-59ba-45c6-bfb2-23f8224502d3)
 
 
-**Customer browsing and Checkout Screens:**
+**Customer Browsing and Checkout Screens:**
 
 ![image](https://github.com/jason-lai-02/Bookstore-App/assets/154931668/a201d2d2-fa02-4a8a-be36-94132a320b8f)
 ![image](https://github.com/jason-lai-02/Bookstore-App/assets/154931668/121da461-31eb-45ee-84fd-38f517dba068)
 
-
+Project Contributors: Adrian Lall, Jason Lai, Kevin Li, Jingyi Guo
 
 
 
